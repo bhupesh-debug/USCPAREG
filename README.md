@@ -63,9 +63,10 @@ USCPAREG/
 │   ├── 02-agency.md
 │   ├── 03-debtor-creditor-relationships.md
 │   └── 04-business-structures.md
+├── MASTERY-BLUEPRINT.md                 ← 🏆 Complete Mastery Blueprint (80/20, 30-day plan, stories, quiz)
 └── resources/
     ├── mnemonics-cheat-sheet.md
-    └── task-based-simulations.md          ← 🔥 NEW: TBS deep-dive guide
+    └── task-based-simulations.md          ← 🔥 TBS deep-dive guide
 ```
 
 ---
@@ -112,6 +113,9 @@ USCPAREG/
 - [Agency](./05-business-law/02-agency.md)
 - [Debtor-Creditor Relationships](./05-business-law/03-debtor-creditor-relationships.md)
 - [Business Structures](./05-business-law/04-business-structures.md)
+
+### 🏆 Complete Mastery Blueprint
+- [MASTERY BLUEPRINT — Full Roadmap, Stories, Quiz, Blog Outline & Elite Strategies](./MASTERY-BLUEPRINT.md)
 
 ### Resources
 - [Mnemonics Cheat Sheet](./resources/mnemonics-cheat-sheet.md)
